@@ -1,0 +1,11 @@
+/* Unutar ovog CSS-a postaviti ispunu koja će imati sljedeća svojstva za sve <p> elemente:
+	- gornja ispuna: 4px
+	- donja ispuna: 2px
+	- lijeva ispuna: 3px
+	- desna ispuna: 5px
+	*/
+/* PISATI ISPOD OVOG KOMENTARA*/
+
+p{
+    padding: 4px 2px 3px 5px;
+}

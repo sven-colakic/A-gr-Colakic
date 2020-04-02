@@ -1,0 +1,37 @@
+/*  Poslagati <div> elemente prema slici 
+	Upisati svojstva s vrijednostima u postojeće klase
+	Zadatak rješavati s pozicioniranjem elemenata i ugnježđivanjem <div> elemenata
+*/
+
+.box_1 {
+  background: #ee3e64;
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+.box_2 {
+  background: #44accf;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.box_3 {
+  background: #b7d84b; 
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 400px;
+  left: 200px;
+}
+.box_4 {
+  background: #112233;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 400px;
+  left: 400px;
+}

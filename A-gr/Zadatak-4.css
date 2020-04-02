@@ -1,0 +1,21 @@
+/* div treba biti u donjem desnom kutu,pomaknut od donje stranice
+	50px.
+	prilikom skrolanja stranice gore dolje
+	on treba ostati u tom položaju
+	Svojstva i vrijednosti upisati u klasu .doljeLijevo
+	*/
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: skyblue;
+  color: white;
+}
+
+.doljeLijevo {
+  width: 300px;
+  border: 3px solid red;
+  color: black;
+  position: fixed;
+  bottom: 50px;
+  right: 0;
+}

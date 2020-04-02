@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+}
+
+p {
+  background-color: yellow;
+}
+
+
+/* Unutar ovog CSS-a postaviti klasu koja će imati gornju i donju marginu 100px za srednji odlomak */
+/* PISATI KLASU ISPOD OVOG KOMENTARA*/
+
+.klasa{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}

@@ -1,0 +1,5 @@
+/* obojiti svaki neparni red u crvenu boju 
+	Napisati kod u ovoj CSS datoteci*/
+tr:nth-child(odd){
+    color: red;
+}
